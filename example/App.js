@@ -1,11 +1,12 @@
 import React from 'react'
 import { StyleSheet, Text, View, SafeAreaView } from 'react-native'
 // import Header from '../src/Header'
+import Header from '@mindinventory/rn-top-navbar'
 
 const App = () => {
   return (
     <>
-      {/* <Header style={{ backgroundColor: '#009999' }} statusBarBackground='#008080' barStyle='light-content'>
+      <Header style={{ backgroundColor: '#009999' }} statusBarBackground='#008080' barStyle='light-content'>
         <Header.Left style={{ backgroundColor: '#009999', width: "15%" }}>
           <Text>Left</Text>
         </Header.Left>
@@ -15,7 +16,7 @@ const App = () => {
         <Header.Right style={{ backgroundColor: '#009999', flexDirection: 'row', width: '15%' }}>
           <Text>Right</Text>
         </Header.Right>
-      </Header> */}
+      </Header>
       <SafeAreaView style={styles.conatiner}>
         <Text>App component</Text>
       </SafeAreaView>
