@@ -1,0 +1,29 @@
+{
+  "name": "headercomp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mindinventory/rn-top-navbar.git"
+  },
+  "peerDependencies": {
+    "react": "17.0.1",
+    "react-native": "0.64",
+    "react-native-status-bar-height": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.14",
+    "@types/react-native": "^0.64.12",
+    "typescript": "^4.3.5"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mindinventory/rn-top-navbar/issues"
+  },
+  "homepage": "https://github.com/Mindinventory/rn-top-navbar#readme"
+}
