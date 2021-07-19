@@ -1,6 +1,8 @@
 # React Native top-navbar
 
-A beautiful navbar for react native app, it's supported ios and android both platform.
+A **@mindinventory/rn-top-navbar**  is a user interface component for react native apps, it's supported in ios and android both platform,
+user can fully customize navbar, **@mindinventory/rn-top-navbar** provides change in background color of statusbar of **ios** and **Android**,
+it's contains like icon, image, text.
 
 ![alt navbar](https://github.com/Mindinventory/rn-top-navbar/blob/master/dock/navbar.png?raw=true)
 
@@ -64,7 +66,7 @@ import Header from '@mindinventory/rn-top-navbar';
 ### Changelog
 **Version: 0.0.1**
   * Initial Build
-  
+
 ### LICENSE!
 
 @mindinventory/rn-top-navbar is [MIT-licensed](https://github.com/Mindinventory/rn-top-navbar/blob/master/LICENSE).
