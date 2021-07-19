@@ -150,7 +150,7 @@ class Header extends Component <headerProps>{
         return (
             <>
                 <View style={[styles.statusBar, { backgroundColor: statusBarBackground }]} >
-                    <StatusBar translucent backgroundColor={statusBarBackground}  />
+                    <StatusBar translucent backgroundColor={statusBarBackground} {...this.props}  />
                 </View>
                 <View {...this.props} style={headerStyle}>
                     {updatedChildren}
