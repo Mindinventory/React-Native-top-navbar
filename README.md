@@ -4,7 +4,7 @@ A **@mindinventory/rn-top-navbar**  is a user interface component for react nati
 user can fully customize navbar, **@mindinventory/rn-top-navbar** provides change in background color of statusbar of **ios** and **Android**,
 it's contains like icon, image, text.
 
-![alt navbar](https://github.com/Mindinventory/rn-top-navbar/blob/master/dock/navbar.png?raw=true)
+![alt navbar](https://github.com/Mindinventory/rn-top-navbar/blob/master/doc/navbar.png?raw=true)
 
 ### Installation
 
