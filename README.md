@@ -1,9 +1,13 @@
 # React Native top-navbar
 
-A **@mindinventory/rn-top-navbar**  is a user interface component for react native apps, 
-user can fully customize navbar, **@mindinventory/rn-top-navbar** is enable to change background color of statusbar, it's contains like icon, image, text.
+A **@mindinventory/rn-top-navbar** package is use to create custom navigation for react native apps. 
+user can fully customize navbar. you can change the background color of statusbar. Navigation can contain component like icon, image, text.
 
 ![alt navbar](https://github.com/Mindinventory/rn-top-navbar/blob/master/doc/navbar.png?raw=true)
+![alt navbar](https://github.com/Mindinventory/rn-top-navbar/blob/master/doc/navbar_1.png?raw=true)
+![alt navbar](https://github.com/Mindinventory/rn-top-navbar/blob/master/doc/navbar_2.png?raw=true)
+![alt navbar](https://github.com/Mindinventory/rn-top-navbar/blob/master/doc/navbar_3.png?raw=true)
+![alt navbar](https://github.com/Mindinventory/rn-top-navbar/blob/master/doc/navbar_4.png?raw=true)
 
 ### Installation
 
