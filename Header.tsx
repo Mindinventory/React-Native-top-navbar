@@ -69,8 +69,7 @@ class Header extends Component <headerProps>{
     static Body = Body
 
     spaceManager = (spaceData : Array<JSX.Element> ) => {       
-        console.log('CALL spaceManager');
-         
+                 
         let tempArr : Array<JSX.Element>  = []
         spaceData.filter((item) => {            
             const { props, type } = item
@@ -145,10 +144,7 @@ class Header extends Component <headerProps>{
     }
 
     render() {
-        const { children, style, statusBarBackground } = this.props        
-        //  updatedChildren = children
-        console.log('children >> ', typeof children);
-        
+        const { children, style, statusBarBackground } = this.props                                
         this.headerManager(children)
         let headerStyle = [styles.mainContainer, style]
         return (
