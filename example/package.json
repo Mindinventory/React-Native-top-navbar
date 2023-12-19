@@ -1,31 +1,26 @@
 {
-  "name": "rn_navbar_demo",
-  "version": "0.0.1",
-  "private": false,
+  "name": "rn-top-navbar-example",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
   "scripts": {
-    "android": "react-native run-android",
-    "ios": "react-native run-ios",
-    "start": "react-native start",
-    "test": "jest",
-    "lint": "eslint ."
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
   },
   "dependencies": {
-    "@mindinventory/rn-top-navbar": "^0.0.1",
-    "react": "17.0.1",
-    "react-native": "0.64.2",
-    "react-native-vector-icons": "^8.1.0"
+    "expo": "~49.0.15",
+    "expo-status-bar": "~1.6.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.72.6",
+    "react-native-web": "~0.19.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9",
-    "@babel/runtime": "^7.12.5",
-    "@react-native-community/eslint-config": "^2.0.0",
-    "babel-jest": "^26.6.3",
-    "eslint": "7.14.0",
-    "jest": "^26.6.3",
-    "metro-react-native-babel-preset": "^0.64.0",
-    "react-test-renderer": "17.0.1"
+    "@babel/core": "^7.20.0",
+    "@expo/webpack-config": "^18.0.1",
+    "babel-loader": "^8.1.0",
+    "babel-plugin-module-resolver": "^5.0.0"
   },
-  "jest": {
-    "preset": "react-native"
-  }
+  "private": true
 }
