@@ -1,6 +1,6 @@
 {
-  "name": "rn-top-navbar",
-  "version": "0.1.0",
+  "name": "@mindinventory/rn-top-navbar",
+  "version": "0.0.4",
   "description": "Provides utility methods to set top navigation bar",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -37,18 +37,20 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "header",
+    "navbar",
+    "rn-header",
+    "react native header",
+    "react native navbar"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ankitpmi/rn-top-navbar.git"
-  },
-  "author": "Mindinventory <ankit.prajapati@mindinventory.com> (https://github.com/ankitpmi)",
+  "repository": "https://github.com/Mindinventory/React-Native-top-navbar",
+  "author": "Ankit Prajapati <ankit.prajapati@mindinventory.com> (https://github.com/ankitpmi)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ankitpmi/rn-top-navbar/issues"
+    "url": "https://github.com/Mindinventory/React-Native-top-navbar/issues"
   },
-  "homepage": "https://github.com/ankitpmi/rn-top-navbar#readme",
+  "homepage": "https://github.com/Mindinventory/React-Native-top-navbar#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
