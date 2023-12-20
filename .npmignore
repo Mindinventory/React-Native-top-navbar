@@ -1,0 +1,14 @@
+.DS_Store
+build/
+.idea
+.gradle
+local.properties
+.idea
+.github
+*.iml
+documentation
+npm-debug.log
+yarn-error.log
+node_modules
+document
+media

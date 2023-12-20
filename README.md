@@ -1,13 +1,18 @@
-# React Native top-navbar
+# React Native top-navbar🚀
 
-A **@mindinventory/rn-top-navbar** package is use to create custom navigation for react native apps. 
-user can fully customize navbar. you can change the background color of statusbar. Navigation can contain component like icon, image, text.
+[![npm version](https://img.shields.io/npm/v/@mindinventory/rn-top-navbar.svg)](<[https://www.npmjs.com/package/@mindinventory/rn-top-navbar](https://www.npmjs.com/package/@mindinventory/rn-top-navbar)>)
+![@mindinventory/rn-top-navbar Top Language](https://img.shields.io/github/languages/top/Mindinventory/rn-top-navbar)
+![@mindinventory/rn-top-navbar TypeScript](https://badgen.net/npm/types/tslib)
+![@mindinventory/rn-top-navbar License](https://img.shields.io/github/license/Mindinventory/rn-top-navbar)
 
-![navbar](doc/navbar.png)
-![navbar_1](doc/navbar_1.png)
-![navbar_2](doc/navbar_2.png)
-![navbar_3](doc/navbar_3.png)
-![navbar_4](doc/navbar_4.png)
+A **@mindinventory/rn-top-navbar** package is used to create custom navigation for React native apps.
+Users can fully customize the navbar. you can change the background color of the status bar. Navigation can contain components like icons, images, and text.
+
+![navbar](media/navbar.png)
+![navbar_1](media/navbar_1.png)
+![navbar_2](media/navbar_2.png)
+![navbar_3](media/navbar_3.png)
+![navbar_4](media/navbar_4.png)
 
 ### Installation
 
@@ -24,10 +29,12 @@ yarn add @mindinventory/rn-top-navbar
 ```
 
 ### Supported platform
-  * Android
-  * Ios
-    
+
+- Android
+- Ios
+
 ### Usage
+
 ```js
 import Header from '@mindinventory/rn-top-navbar';
 ...
@@ -68,15 +75,15 @@ import Header from '@mindinventory/rn-top-navbar';
 | --- | --- | --- |
 | style | style | apply styles on right container. |
 
-
-### Changelog
-**Version: 0.0.1**
-  * Initial Build
-
 ### LICENSE!
 
 @mindinventory/rn-top-navbar is [MIT-licensed](https://github.com/Mindinventory/rn-top-navbar/blob/master/LICENSE).
 
-### Let us know!
+# Let us know
 
-We’d be really happy if you send us links to your projects where you use our component. Just send an email to sales@mindinventory.com And do let us know if you have any questions or suggestion regarding our work.
+If you use our open-source libraries in your project, please make sure to credit us and Give a star to www.mindinventory.com
+
+<p><h4>Please feel free to use this component and Let us know if you are interested to building Apps or Designing Products.</h4>
+<a href="https://www.mindinventory.com/contact-us.php?utm_source=gthb&utm_medium=repo&utm_campaign=circular-cards-stack-view" target="__blank">
+<img src="./media/hire_button.png" width="203" height="43"  alt="app development">
+</a>
