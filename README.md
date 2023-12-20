@@ -75,12 +75,6 @@ import Header from '@mindinventory/rn-top-navbar';
 | --- | --- | --- |
 | style | style | apply styles on right container. |
 
-### Changelog
-
-**Version: 0.0.4**
-
-- Initial Build
-
 ### LICENSE!
 
 @mindinventory/rn-top-navbar is [MIT-licensed](https://github.com/Mindinventory/rn-top-navbar/blob/master/LICENSE).
