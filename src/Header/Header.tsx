@@ -51,7 +51,7 @@ const Body: React.FC<bodyProps> = (props) => {
   return <View style={bodyStyle}>{children}</View>;
 };
 
-class Header extends Component<headerProps> {
+export class Header extends Component<headerProps> {
   static Left = Left;
   static Right = Right;
   static Body = Body;
@@ -184,8 +184,6 @@ class Header extends Component<headerProps> {
     );
   }
 }
-
-export default Header;
 
 type Style = {
   mainContainer: ViewStyle;
