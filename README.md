@@ -77,7 +77,7 @@ import Header from '@mindinventory/rn-top-navbar';
 
 ### Changelog
 
-**Version: 0.0.1**
+**Version: 0.0.4**
 
 - Initial Build
 
