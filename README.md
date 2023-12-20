@@ -1,7 +1,12 @@
-# React Native top-navbar
+# React Native top-navbar🚀
 
-A **@mindinventory/rn-top-navbar** package is use to create custom navigation for react native apps.
-user can fully customize navbar. you can change the background color of statusbar. Navigation can contain component like icon, image, text.
+[![npm version](https://img.shields.io/npm/v/@mindinventory/rn-top-navbar.svg)](<[https://www.npmjs.com/package/@mindinventory/rn-top-navbar](https://www.npmjs.com/package/@mindinventory/rn-top-navbar)>)
+![@mindinventory/rn-top-navbar Top Language](https://img.shields.io/github/languages/top/Mindinventory/rn-top-navbar)
+![@mindinventory/rn-top-navbar TypeScript](https://badgen.net/npm/types/tslib)
+![@mindinventory/rn-top-navbar License](https://img.shields.io/github/license/Mindinventory/rn-top-navbar)
+
+A **@mindinventory/rn-top-navbar** package is used to create custom navigation for React native apps.
+Users can fully customize the navbar. you can change the background color of the status bar. Navigation can contain components like icons, images, and text.
 
 ![navbar](media/navbar.png)
 ![navbar_1](media/navbar_1.png)
